@@ -12,11 +12,12 @@
   "dependencies": {
     "axios": "^1.7.3",
     "body-parser": "^1.20.2",
-    "cheerio": "^1.0.0-rc.12",
+    "cheerio": "^1.0.0",
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "fs": "^0.0.1-security",
-    "http": "^0.0.1-security"
+    "http": "^0.0.1-security",
+    "nba": "^4.15.0"
   },
   "devDependencies": {
     "jsdom": "^24.1.1",
